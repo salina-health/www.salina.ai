@@ -1,3 +1,9 @@
+# www.salina.ai
+
+This is the web site for Salina Health, modified from the amazing Serif theme.
+Original notes and links below...
+
+
 # Jekyll Serif Theme
 
 Serif is a modern business theme for Jekyll. It contains multiple content types for a typical brochure/marketing website. The theme is fully responsive, blazing fast and artfully illustrated.

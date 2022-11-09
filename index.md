@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Salina Health Ltd
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
+description: AI-powered voice analytics for health care
+intro_image: "images/illustrations/head.svg"
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_cta: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# AI-powered voice analytics for health care
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+We work with psychologists and medical professionals — saving them time with AI-powered tools to gather insights from their patients' voices.

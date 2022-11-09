@@ -1,27 +1,30 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "About Salina Health",
+    "description": "The company, technology, and our solutions.",
+    "page": "about/",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/noun-people-768961.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Oncology",
+    "description": "Laryngeal cancer triage, funded by UK Innovate.",
+    "page": "oncology/",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/noun-voice-2628623.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Mental Health",
+    "description": "Therapy intelligence, tracking language & voice markers.",
+    "page": "mental-health/",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/noun-mental-maze-4450965.svg",
       "width": 80,
       "height": 80
     }
