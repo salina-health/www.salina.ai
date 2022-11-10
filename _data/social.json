@@ -1,12 +1,12 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/social/github.svg"
+    "name": "Twitter",
+    "link": "https://twitter.com/salina_ai",
+    "image": "images/social/twitter.svg"
   },
   {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "images/social/twitter.svg"
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/company/salina-ai/",
+    "image": "images/social/In-White-21.png"
   }
 ]

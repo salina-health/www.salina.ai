@@ -3,29 +3,37 @@ layout: default
 bodyClass: "page-home"
 ---
 
-<div class="intro-small">
+<div class="intro">
   <div class="container">
     <div class="row justify-content-start">
       <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
         {{ content }}
-        {% if page.show_call_box %}
-          {% include call.html show_button=true %}
-        {% endif %}
-        {% if page.show_cta %}
-          {% include cta.html show_button=true %}
-        {% endif %}
       </div>
       {% if page.intro_image %}
       <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
-        <img alt="{{ page.title }}" class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relURL }}" />
+        <img alt="{{ page.title }}"
+          class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}"
+          src="{{ page.intro_image | relURL }}" />
       </div>
       {% endif %}
     </div>
   </div>
 </div>
 
+{% if page.show_cta %}
+<div class="strip">
+  <div class="container pb-6">
+    <div class="row">
+      <div class="col">
+        {% include cta.html show_button=true %}
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+
 {% if site.data.features %}
-<div class="strip strip-grey">
+<div class="strip strip-primary-gradient-top-bottom">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="row justify-content-center">
 
@@ -33,9 +41,12 @@ bodyClass: "page-home"
       <div class="col-12 col-md-6 col-lg-4 mb-2">
         <div class="feature">
           {% if feature.image %}
-          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}" width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
+          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}"
+              width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
           {% endif %}
-          <a href="{{ feature.page }}"><h2 class="feature-title">{{ feature.title }}</h2></a>
+          <a href="{{ feature.page }}">
+            <h2 class="feature-title">{{ feature.title }}</h2>
+          </a>
           <div class="feature-content">{{ feature.description }}</div>
         </div>
       </div>
