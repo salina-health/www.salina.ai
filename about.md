@@ -15,7 +15,7 @@ Both areas share the same underlying Salina platform.
 
 # How we work
 
-We're creating AI tools for patient triage, therapy session analytics and on-going patient monitoring. This could provide significant efficiencies at clinics with the growth of remote therapy providers.
+We're creating AI tools for patient triage, therapy session analytics and ongoing patient monitoring. This could provide significant efficiencies at clinics with the growth of remote therapy providers.
 
 These services will be provided, B2B, as a software-as-a-service.
 
@@ -26,7 +26,7 @@ We prefer to partner with patient management software companies to deliver the t
 
 The three key benefits save time and gives an enhanced service to patients:
 
-- Time saving in automated note taking and analysis from consultations.
+- Time saving in automated note-taking and analysis from consultations.
 
 - Triage efficiency, improving patient journeys.
 
