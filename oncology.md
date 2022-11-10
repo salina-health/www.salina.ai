@@ -11,7 +11,9 @@ The Salina project — partnering with, and spearheaded by, an NHS Trust — aim
 
 This has the potential to streamline care, realising multiple benefits to patients and healthcare systems.
 
-This project has the support of [Innovate UK](https://www.ukri.org/councils/innovate-uk/).
+[Innovate UK]: https://www.ukri.org/councils/innovate-uk/
+
+This project is co-funded by [Innovate UK], the UK’s innovation agency.
 
 {: .strip .strip-grey }
 ![Innovate UK Logo](/images/features/UKRI.svg)
