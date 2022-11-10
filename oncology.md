@@ -5,8 +5,13 @@ description: Oncology
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Today, patients presenting at primary care with a "hoarse voice" are referred to head and neck cancer clinics. Of the estimated 28,000 annual referrals in England, the vast majority (93%) do not have cancer. But it is a growing issue across the world, accouting for 1% of all cancers and growing.
 
-![UK Innovate Logo](/images/features/UKRI.svg)
+The Salina project — partnering with, and spearheaded by, an NHS Trust — aims to confidently divert benign vocal problems into more appropriate care pathways. 
+
+This has the potential to streamline care, realising multiple benefits to patients and healthcare systems.
+
+This project has the support of [Innovate UK](https://www.ukri.org/councils/innovate-uk/).
+
+{: .strip .strip-grey }
+![Innovate UK Logo](/images/features/UKRI.svg)
