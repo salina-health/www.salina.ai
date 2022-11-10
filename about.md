@@ -15,9 +15,9 @@ Both areas share the same underlying Salina platform.
 
 # How we work
 
-We provide AI tools for for patient triage, therapy session analytics and ongoing patient monitoring.
+We're creating AI tools for patient triage, therapy session analytics and on-going patient monitoring. This could provide significant efficiencies at clinics with the growth of remote therapy providers.
 
-These are delivered as a B2B SaaS business, which could provide significant efficiencies at clinics with the growth of remote therapy providers.
+These services will be provided, B2B, as a software-as-a-service.
 
 We prefer to partner with patient management software companies to deliver the technologies. If you're a PMS interested in Salina, do [get in touch](/contact).
 

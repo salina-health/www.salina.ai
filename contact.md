@@ -12,11 +12,3 @@ We'd love to hear from you:
 
 - Partnerships with patient management firms are a core to Salina. Drop us an email to explore how we can work together.
 
-
-# Company details
-
-Salina Health Ltd is registered in England & Wales:
-
-| Registered address  | Elsley Court, 20-22 Great Titchfield Street, London, W1W 8BE, UK    |
-| Company number      | 13584833   | 
-| VAT number          | GB401318940   |
