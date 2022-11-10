@@ -1,7 +1,7 @@
 ---
-title: "Yannis"
+title: "Ioannis"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/yannis.jpg"
+image: "images/features/noun-people-768961.svg"
 jobtitle: "Advisor"
 linkedinurl: "https://www.linkedin.com/example2"
 weight: 20 

@@ -3,9 +3,9 @@ title: "Richard Dallaway"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/richard.jpg"
 jobtitle: "Founder"
-linkedinurl: "https://www.linkedin.com/example2"
+linkedinurl: "https://www.linkedin.com/in/richarddallaway/"
 promoted: true
 weight: 5
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Richard  comes from a strong AI and machine learning background (undergraduate and PhD). He has applied AI to drug discovery, cognitive modelling, and has wide experience in developing software with agile engineering teams.
