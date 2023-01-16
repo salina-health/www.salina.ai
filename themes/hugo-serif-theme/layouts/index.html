@@ -18,6 +18,9 @@
       </div>
       {{ end }}
     </div>
+    {{ if .Site.Params.homepage.show_survey_box }}
+    {{ partial "survey.html" (dict "site" .Site "context" . "show_button" "true") }}
+    {{ end }}
   </div>
 </div>
 

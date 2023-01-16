@@ -1,0 +1,37 @@
+.survey {
+  position: relative;
+  overflow: hidden;
+  background-color: $light-grey;
+  border-radius: 4px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  z-index: 2;
+  @include media-breakpoint-up(sm) {
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .survey-box-top {
+    flex: 0 1 auto;
+    padding: 20px;
+    @include media-breakpoint-up(md) {
+    }
+  }
+  .survey-box-bottom {
+    flex: auto;
+    padding: 20px;
+    border-top: 1px solid darken($white-offset, 5%);
+    @include media-breakpoint-up(sm) {
+      flex: 0 0 auto;
+      border: none;
+    }
+  }
+  .survey-text {
+    font-size: 1.1rem;
+    font-weight: normal;
+  }
+  
+}

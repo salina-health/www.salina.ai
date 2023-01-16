@@ -15,7 +15,8 @@ title = "Salina Health Ltd"
   google_tag_manager_id = ""
 
   [params.homepage]
-    show_contact_box = true      # show / hide the contaxt box on the homepage
+    show_contact_box = false     # show / hide the contaxt box on the homepage
+    show_survey_box = true       # show / hide the survey / sign up
     show_services_button = false # show / hide the "view all services" button
 
   [params.logo]
@@ -32,11 +33,18 @@ title = "Salina Health Ltd"
     base = "Nunito"
 
   [params.colors]
-    primary = "#f24088"
-    black = "#2f2f41"
+    primary = "#FF0B53"
+    black = "#1A1A1A"
     white = "#ffffff"
     white_offset = "#f6f7ff"
-    grey = "#5C5A5A"
+    grey = "#2f2f41" # Used for text    
+    red = "#FF0B53"
+    purple = "#B400E0"
+    yellow = "#FFB966"
+    blue1 = "#466A91"
+    blue2 = "#283583" # darker
+    lightgrey = "#EDE6F2"
+    lightergrey = "#F0F0F0"
 
   [params.seo]
     meta_twitter_site = "@salina_ai"

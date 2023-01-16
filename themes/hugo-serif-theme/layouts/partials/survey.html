@@ -1,0 +1,12 @@
+<div class="survey">
+  <div class="survey-box-top">
+    {{ if site.Data.survey.text }}
+        <div class="survey-text">{{ site.Data.survey.text }} </div>
+    {{ end }}
+  </div>
+    {{ if eq .show_button "true" }}
+      <div class="survey-box-bottom">
+        <a href="{{  site.Data.survey.link | relURL }}" class="button">{{  site.Data.survey.cta }}</a>
+      </div>
+    {{ end }}
+</div>

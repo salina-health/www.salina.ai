@@ -4,6 +4,7 @@ $black: {{ .Site.Params.colors.black | default "#2f2f41" }};
 $white: {{ .Site.Params.colors.white | default "#ffffff" }};
 $white-offset: {{ .Site.Params.colors.white_offset | default "#f6f7ff" }};
 $grey: {{ .Site.Params.colors.grey | default "#5C5A5A" }};
+$light-grey: {{ .Site.Params.colors.lightgrey | default "#5C5A5A" }};
 
 // Fonts
 $font-family-base: {{ .Site.Params.fonts.base }}, Helvetica, Arial, sans-serif, -apple-system;
@@ -42,6 +43,7 @@ $sub-footer-text-color: $white;
 @import 'components/hamburger';
 @import 'components/buttons';
 @import 'components/call';
+@import 'components/survey';
 @import 'components/title';
 @import 'components/content';
 @import 'components/intro';
