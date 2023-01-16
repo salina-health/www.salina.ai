@@ -1,50 +1,35 @@
 ---
-title: 'About'
-date: 2018-02-22T17:01:34+07:00
+title: Salina Health Ltd
+layout: page
+description: About
+bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Salina Health is an early-stage technology company targetting two areas:
 
-## Ne verba patulosque numen vix libet
+- <a href="/mental-health">Mental health</a>, with the automated understanding of online therapy sessions and extraction of objective voice markers related to clinical indications such as  depression and anxiety.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+- <a href="/oncology/">Oncology</a>, automated detection of laryngeal (voice box) cancer risk, with an NHS partner.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Both areas share the same underlying Salina platform.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+# How we work
 
-## Postquam tamen
+We're creating AI tools for patient triage, therapy session analytics and ongoing patient monitoring. This could provide significant efficiencies at clinics with the growth of remote therapy providers.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+These services will be provided, B2B, as a software-as-a-service.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+We prefer to partner with patient management software companies to deliver the technologies. If you're a PMS interested in Salina, do [get in touch](/contact).
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+# Value
+
+The three key benefits save time and gives an enhanced service to patients:
+
+- Time saving in automated note-taking and analysis from consultations.
+
+- Triage efficiency, improving patient journeys.
+
+- Objective markers for monitoring patient change over time.
+
+If you'd like to learn more, do [get in touch](/contact).

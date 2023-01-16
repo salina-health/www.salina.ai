@@ -1,16 +1,14 @@
 ---
-title: 'Contact'
-date: 2018-02-22T17:01:34+07:00
+title: Contact
 layout: contact
+description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+We'd love to hear from you:
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Sunday    | Closed          |
+- If you're a health professional, get in touch and we can tell you about Salina and learn about what problems you're facing.
+
+- We're raising funds to grow Salina, so if you're an investor at a venture firm, we'd appreciate enquires.
+
+- Partnerships with patient management firms are a core to Salina. Drop us an email to explore how we can work together.
+
