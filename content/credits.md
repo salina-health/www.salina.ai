@@ -14,3 +14,5 @@ Thank you to the creative individuals and organisations for the following:
 - "Voice" icon by [Chintuza](https://thenounproject.com/chintuza/), Creative Commons (CC BY) license.
 
 - "People" icon by [mitochondrial](https://thenounproject.com/mike.a.condry/), Creative Commons (CC BY) license.
+
+- "Clock" icon by [Alfredo @ IconsAlfredo.us](https://thenounproject.com/browse/icons/term/clock/), Creative Commons (CC BY) license.

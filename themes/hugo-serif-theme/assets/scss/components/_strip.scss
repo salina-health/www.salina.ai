@@ -45,3 +45,7 @@
 .strip-bg-cover {
   background-size: cover;
 }
+
+.strip-primary-gradient-top-bottom {
+  background-image: linear-gradient(to bottom, $primary, $light-grey);
+}

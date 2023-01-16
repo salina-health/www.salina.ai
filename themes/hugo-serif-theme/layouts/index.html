@@ -25,7 +25,7 @@
 </div>
 
 {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
-{{if gt (len $services) 0}}
+{{if and (.Site.Params.homepage.show_services ) (gt (len $services) 0)}}
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
@@ -47,7 +47,7 @@
 {{end}}
 
 {{if .Site.Data.features}}
-<div class="strip strip-grey">
+<div class="strip strip-primary-gradient-top-bottom">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="row justify-content-center">
       {{ range .Site.Data.features }}
@@ -57,7 +57,7 @@
           <div class="feature-image"><img width="100" height="100" alt="{{ .Title }} logo"
               src="{{ .image | relURL }}" /></div>
           {{ end }}
-          <h2 class="feature-title">{{ .title }}</h2>
+          <a href="{{ .page }}"><h2 class="feature-title">{{ .title }}</h2></a>
           <div class="feature-content">
             <p>{{ .description }}</p>
           </div>

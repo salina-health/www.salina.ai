@@ -1,17 +1,20 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "title": "Save Time",
+    "description": "Spend less time compiling notes, and spend more time doing what you love: helping patients.",
+    "page": "mental-health/",
+    "image": "images/features/noun-clock-326691.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "title": "Advance Your Practice",
+    "description": "Make use of insights by tracking language & voice markers with Salina.",
+    "page": "voice-markers/",
+    "image": "images/features/noun-mental-maze-4450965.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "title": "About Salina Health",
+    "description": "The company, technology, and our solutions.",
+    "page": "about/",
+    "image":  "images/features/noun-people-768961.svg"
   }
 ]

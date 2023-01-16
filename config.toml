@@ -18,6 +18,7 @@ title = "Salina Health Ltd"
     show_contact_box = false     # show / hide the contaxt box on the homepage
     show_survey_box = true       # show / hide the survey / sign up
     show_services_button = false # show / hide the "view all services" button
+    show_services = false
 
   [params.logo]
     mobile = "images/logo/logo-mobile.svg"
