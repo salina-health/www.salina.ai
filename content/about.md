@@ -15,7 +15,7 @@ We extract insights from language and voice to:
 
 # How we work
 
-We're creating AI tools for therapy session analytics and ongoing patient monitoring. This could provide significant efficiencies at clinics with the growth of remote therapy providers.
+We're creating AI tools for therapy session analytics and ongoing patient monitoring. This could provide significant [efficiencies at clinics](/mental-health) with the growth of remote therapy providers, and [add insights](/voice-markers) with language and voice metrics. 
 
 These services is provided as a software-as-a-service.
 
