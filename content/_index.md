@@ -1,5 +1,5 @@
 ---
-title: 'Homee'
+title: 'Home'
 meta_title: 'Salina Health'
 description: "AI-Powered therapy intelligence"
 intro_image: "images/illustrations/head.svg"

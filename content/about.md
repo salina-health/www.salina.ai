@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-Salina Health is an early-stage technology company targetting psychological therapy.
+Salina Health is an early-stage technology company targeting psychological therapy.
 
 We extract insights from language and voice to:
 
