@@ -1,10 +1,9 @@
 ---
 title: 'Team'
-intro_image: "images/team/smartworks-coworking-cW4lLTavU80-unsplash.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Meet the team
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Salina grew out of ideas around mental health at April19 Discovery, and found a home at Salina Health in 2022.

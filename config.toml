@@ -1,7 +1,7 @@
 baseURL = "/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
-languageCode = "en-us"
+languageCode = "en-gb"
 title = "Salina Health Ltd"
 
 [module]
@@ -56,7 +56,7 @@ title = "Salina Health Ltd"
     summary_truncate = 120 # How many characters to include in the summary of the services before truncating
 
   [params.team]
-    summary_large_truncate = 120 # How many characters to include in the summary of the team bios (large layout) before truncating
+    summary_large_truncate = 300 # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
     copyright_text = 'Salina Health Ltd'

@@ -7,6 +7,6 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
-# AI-Powered Therapy Intelligence.
+# AI-powered therapy intelligence
 
 We work with mental health professionals — saving them time with AI-powered tools to gather insights from their patients’ voices.
