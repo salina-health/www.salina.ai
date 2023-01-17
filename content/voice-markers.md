@@ -1,9 +1,7 @@
 ---
 title: Voice markers
-layout: page
 bodyClass: page-about
 ---
-
 
 ## What your patient says, and how they say it, contains a wealth of information
 
@@ -15,8 +13,9 @@ Salina calculates a range of values to allow you to track changes across session
 
 While not a diagnostic, the metrics save you the time of measuring speaking rate, frequency of language used, along with loundness and other aspects of the human voice.
 
-Salina consistenlt records these, allowing you to spot patterns of change in a patient.
+Salina consistently records these, allowing you to spot patterns of change in a patient.
 
+{{< figure src="/images/features/voice-chart.png" >}}
 
 #### Sources
 
