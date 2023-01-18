@@ -3,6 +3,7 @@ themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-gb"
 title = "Salina Health Ltd"
+enableRobotsTXT = true
 
 [module]
   [module.hugoVersion]
