@@ -21,10 +21,6 @@ These services is provided as a software-as-a-service.
 
 We prefer to partner with patient management software companies to deliver the technologies. If you're a PMS interested in Salina, do [get in touch](/contact).
 
-# Applications outside if mental health
+# Applications outside of mental health
 
 The key technology is also applicable in physical health, and we are running a pilot project in [oncology](/oncology) with an NHS partner.
-
-# Get in touch
-
-If you'd like to learn more, do [get in touch](/contact).
