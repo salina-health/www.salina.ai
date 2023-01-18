@@ -11,7 +11,7 @@ Voice markers are being used to track the progression of Parkinson’s, cardiova
 
 Salina calculates a range of values to allow you to track changes across sessions. 
 
-While not a diagnostic, the metrics save you the time of measuring speaking rate, frequency of language used, along with loundness and other aspects of the human voice.
+While not a diagnostic, the metrics save you the time of measuring speaking rate, frequency of language used, along with loudness and other aspects of the human voice.
 
 Salina consistently records these, allowing you to spot patterns of change in a patient.
 

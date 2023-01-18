@@ -5,7 +5,7 @@ description: Credits
 bodyClass: page-about
 ---
 
-Thank you to the creative individuals and organisations for the following:
+Thank you to the creative individuals and organizations for the following:
 
 - Web site theme, by [www.zerostatic.io](https://www.zerostatic.io), MIT License.
 

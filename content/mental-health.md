@@ -12,7 +12,7 @@ With 1 in every 8 people in the world living with a mental disorder[^1],
 access to professional help is challenging. 
 
 The dominance of online[^2] video and audio sessions provides access,
-but also a rich data source that is currently under analysed.
+but also a rich data source that is currently under analyzed.
 
 ## Therapy intelligence
 
@@ -20,7 +20,7 @@ but also a rich data source that is currently under analysed.
 
 Salina's AI aims to provide automated therapy intelligence, extracting insights from audio and natural language:
 
-- anonymise and summarise the session, saving time;
+- anonymize and summarize the session, saving time;
 
 - list symptoms mentioned by the patient; and
 
