@@ -53,7 +53,7 @@ enableRobotsTXT = true
     meta_twitter_creator = "@salina_ai"
 
   [params.services]
-    summary_truncate = 120 # How many characters to include in the summary of the services before truncating
+    summary_truncate = 240 # How many characters to include in the summary of the services before truncating
 
   [params.team]
     summary_large_truncate = 300 # How many characters to include in the summary of the team bios (large layout) before truncating
