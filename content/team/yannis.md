@@ -1,5 +1,5 @@
 ---
-title: "Ioannis"
+title: "Dr. Ioannis Douros"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/yannis.jpg"
 jobtitle: "Voice and AI consultant"

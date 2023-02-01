@@ -1,5 +1,5 @@
 ---
-title: "Richard Dallaway"
+title: "Dr. Richard Dallaway"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/richard.jpg"
 jobtitle: "Founder"

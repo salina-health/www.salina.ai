@@ -15,7 +15,6 @@ While not a diagnostic, the metrics save you the time of measuring speaking rate
 
 Salina consistently records these, allowing you to spot patterns of change in a patient.
 
-{{< figure src="/images/features/voice-chart.png" >}}
 
 #### Sources
 

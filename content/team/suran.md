@@ -1,5 +1,5 @@
 ---
-title: "Suran Goonatilake"
+title: "Dr. Suran Goonatilake"
 date: 2018-12-20T13:44:23+10:00
 image: "images/team/suran.jpg"
 jobtitle: "Founder"

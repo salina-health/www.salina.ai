@@ -9,4 +9,5 @@ intro_image_hide_on_mobile: true
 
 # AI-powered therapy intelligence
 
-We work with mental health professionals — saving them time with AI-powered tools to gather insights from their patients’ voices.
+We work with mental health professionals — [saving them time](/mental-health) with 
+AI-powered tools to gather [insights](/voice-markers) from their patients’ voices.
