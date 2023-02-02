@@ -1,7 +1,7 @@
 ---
 title: "Sam Hewitt"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/sam.jpg"
+image: "images/team/sh.jpg"
 jobtitle: "Neuroscience Consultant"
 weight: 30 
 linkedinurl: "https://www.linkedin.com/in/sam-hewitt-151313a4/"

@@ -56,7 +56,7 @@ enableRobotsTXT = true
     summary_truncate = 240 # How many characters to include in the summary of the services before truncating
 
   [params.team]
-    summary_large_truncate = 500 # How many characters to include in the summary of the team bios (large layout) before truncating
+    summary_large_truncate = 640 # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
     copyright_text = 'Salina Health Ltd'
