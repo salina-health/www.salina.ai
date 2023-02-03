@@ -8,7 +8,7 @@ weight: 20
 promoted: true
 ---
 
-Richard is a venture capitalist and entrepreneur. A partner at The Conscious Fund with a portfolio of 23 companies with six of its seed investments now being public companies on exchanges such as NASDAQ and NYSE.
+Richard is a venture capitalist and entrepreneur. A partner at The Conscious Fund with a portfolio of 23 companies with 6 of its seed investments now being public companies on exchanges such as NASDAQ and NYSE.
 
 He serves as the chair of Microdose, the market leading media company for the business of psychedelics. Microdose delivers the world's largest trade event for psychedelic medicine, mental health and longevity: Wonderland Miami. 
 
