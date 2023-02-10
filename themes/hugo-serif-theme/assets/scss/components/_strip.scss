@@ -49,3 +49,7 @@
 .strip-primary-gradient-top-bottom {
   background-image: linear-gradient(to bottom, $primary, $light-grey);
 }
+
+.strip-primary-gradient-left-right {
+  background-image: linear-gradient(to right, $primary, #B400E0);
+}
