@@ -16,10 +16,10 @@ $link-decoration: none;
 $link-hover-decoration: underline;
 
 // Footer
-$footer-background-color: $primary;
-$footer-text-color: $white;
-$sub-footer-background-color: $primary;
-$sub-footer-text-color: $white;
+$footer-background-color: $white;
+$footer-text-color: $primary;
+$sub-footer-background-color: $white;
+$sub-footer-text-color: $primary;
 
 // Bootstrap
 @import 'bootstrap-variables';
