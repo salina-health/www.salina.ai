@@ -3,6 +3,9 @@ title: Salina Health Ltd
 layout: page
 description: About
 bodyClass: page-about
+intro_image: "images/illustrations/head.svg"
+intro_image_absolute: false
+intro_image_hide_on_mobile: true
 ---
 
 Salina Health is an early-stage technology company targeting psychological therapy.
