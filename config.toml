@@ -23,9 +23,9 @@ enableRobotsTXT = true
 
   [params.logo]
     mobile = "images/logo/logo-mobile.svg"
-    mobile_height = "36px"
+    mobile_height = "24px"
     desktop = "images/logo/logo.svg"
-    desktop_height = "36px"
+    desktop_height = "24px"
     alt = "Salina Health"
 
   [params.fonts]
