@@ -2,7 +2,7 @@
 title: "Dr. Andrew Cornes"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/ac.jpg"
-jobtitle: "Clinical Advisor"
+jobtitle: "Clinical"
 linkedinurl: "https://www.linkedin.com/in/dr-andrew-j-cornes-fbpss-a904ab42/"
 weight: 20 
 promoted: true
