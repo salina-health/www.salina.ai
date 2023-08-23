@@ -58,6 +58,7 @@ $sub-footer-text-color: $primary;
 @import 'pages/services/page-services-single';
 
 body {
+  margin: 8px;
   font-size: 16px;
   line-height: 1.2;
   font-family: $font-family-base;
