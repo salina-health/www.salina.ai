@@ -13,11 +13,9 @@ Salina is a software product which generates a transcript from your therapy sess
 
 ## Why use Salina?
 
-It saves your clinician time, so they can focus on you, and can avoid their own burn out.
+- It saves your clinician time, so they can focus on you.
 
-It helps them quickly get back into your next session by highlighting what you were discussing.
-
-It helps your clinician by measuring changes in things like how quickly you speak.
+- It helps your clinician by measuring changes in things like how quickly you speak.
 
 ## How does it work?
 
@@ -34,3 +32,7 @@ The data is only used by your clinician. It is stored securely, and they can del
 If you’d like to be included in our research projects for improving Salina and measuring how well Salina works, you can be offered that when the next research project starts.
 
 We encourage you to check out our [full privacy policy](/terms/privacy).
+
+
+This document last update: 30 Aug 2023.
+
