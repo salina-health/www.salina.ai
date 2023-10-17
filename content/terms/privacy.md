@@ -74,6 +74,6 @@ Under data protection law, you have rights including:
 - Your right to object to processing: You have the right to object to the processing of your personal information in certain circumstances.
 - Your right to data portability: You have the right to ask that we transfer the personal information you gave us to another organisation, or to you, in certain circumstances.
 - You are not required to pay any charge for exercising your rights. If you make a request, we have one month to respond to you.
-- Please contact us at suppoer@salina.ai if you wish to make a request, or for the latest version of this document.
+- Please contact us at support@salina.ai if you wish to make a request, or for the latest version of this document.
 
 Effective date: 11 August 2023
