@@ -7,9 +7,9 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
-# AI-powered therapy intelligence
+# What would you do with an extra hour a day?
 
-We automatically gather [insights](/voice-markers) from therapy sessions,
-[saving time](/mental-health) for mental health professionals.  
+Salina AI automatically products notes and gathers [insights](/voice-markers) from therapy sessions,
+[saving time](/mental-health) for mental health professionals. Secure, GDPR compliant.
 
-Here's how: upload audio and Salina automatically finds key concerns, session highlights, markers, plus a transcript and summary. Click to create and edit your notes.
+Here's how: upload audio and Salina automatically finds key concerns, session highlights, markers, plus a transcript and summary. Click to create and edit your notes. 
