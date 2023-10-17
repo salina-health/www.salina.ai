@@ -31,7 +31,11 @@ Salina's AI aims to provide automated therapy intelligence, extracting insights 
 
 Note-taking and summarization features of Salina can lead to significant savings per session, with the potential to dramatically change the economics of a session for the clinician. More time free makes more sessions available, allowing for access to increase.
 
-Salina is in pre-release development. If you'd like to get involved, [contact us](/contact/) or complete our {{<survey>}}.
+## Salina is available today
+
+If you'd like to try Salina, [book a 15 minute on-boarding call](https://fantastical.app/richard-dallaway/salina-onboarding) — we're confident 15 minutes now will save you hours as you use Salina. We are providing extended free trials for therapist joining us on an on-boarding call.
+
+Alternatively, you can [contact us](/contact/) with questions or queries.
 
 
 #### Sources

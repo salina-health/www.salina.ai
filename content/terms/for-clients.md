@@ -1,7 +1,7 @@
 ---
-title: Salina for Clients                     
-layout: page
-description: Salina for Clients
+title: Your therapy session with Salina
+layout: wide
+description: Salina
 ---
 
 
@@ -11,11 +11,15 @@ Your clinician would like to start using Salina in your sessions.
 
 Salina is a software product which generates a transcript from your therapy session, and finds key information for your clinician. 
 
+This is done automatically, by machine, with no human invovlement other than your carer.
+
+It is deleted when your therapist has used the information, and we don't use it for any other purposes.
+
+
 ## Why use Salina?
 
-- It saves your clinician time, so they can focus on you.
+It saves your clinician time, so they can focus on you.
 
-- It helps your clinician by measuring changes in things like how quickly you speak.
 
 ## How does it work?
 
@@ -34,5 +38,5 @@ If you’d like to be included in our research projects for improving Salina and
 We encourage you to check out our [full privacy policy](/terms/privacy).
 
 
-This document last update: 30 Aug 2023.
+This document last update: 17 October 2023.
 
