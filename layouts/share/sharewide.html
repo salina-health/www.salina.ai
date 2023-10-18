@@ -3,16 +3,12 @@
 {{ define "main" }}
 
 <div class="container pb-6 pt-8 pb-md-10">
-  <div class="row justify-content-start">
+  <div class="row">
       <div class="service service-single">
         <h1 class="title">{{.Title}}</h1>
 
-        <!-- Two columns layout -->
-        <div class="container row justify-content-start align-items-start pb-6 pt-3 pb-md-10">
-          <div class="col-12 col-md-7 col-lg-6">{{.Content}}</div>
-          <div class="col-12 col-md-5 col-lg-6 pt-4">
-            <img class="intro-image" src="/images/illustrations/webapp.png">
-          </div>
+        <div class="container row pb-6 pt-3 pb-md-10">
+          <div class="">{{.Content}}</div>
         </div>
       
     </div>

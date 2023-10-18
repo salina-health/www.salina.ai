@@ -1,26 +1,39 @@
 ---
-title: AI-powered therapy intelligence
+title: Try Salina for 6 months for free
 layout: sharewide
-description: "AI-Powered therapy intelligence"
+description: "Join Salina"
 ---
 
-Salina securely summarises and extracts insights from therapy sessions,
-saving time so you can focus on helping your clients.
+## What would you do with an extra hour a day?
 
-### How it works
+Salina AI securely summarises therapy session, produces notes and gathers insights, 
+saving you time so you can focus on helping your clients.
 
-Upload audio and Salina automatically finds chief concerns, session highlights, markers, plus a transcript and summary. 
+{{< button text="Book a private 15-minute on-boarding session" link="https://fantastical.app/richard-dallaway/salina-onboarding" >}}
 
-### Get started
+We're confident 15 minutes today will start saving you hours.
 
+## What to expect in an on-boarding session
 
-{{< button text="Book a 15-minute on-boarding session" link="https://fantastical.app/richard-dallaway/salina-onboarding" >}}
+- See Salina in action over a short Zoom call
+- Get answers to your questions
+- Meet the people behind Salina
+- Start using Salina immediately
 
+## Frequently asked questions
 
-- See Salina in action
-- Get answers to any questions
-- Start a **free account for 6-months**
+- Q: Do I need a credit card or start payment? A: No, we're not charging for Salina at this stage.
 
+- Q: How do you make money? A: We're a start-up company, funded by forward-thinking investors who believe we can build a great therapy product that clinicians will want to use and pay for in due course. 
 
-No credit card required.
+- Q: Do you sell or use therapy data beyond what I need? A: No: we're in the business of making a product therapists want to use, and not in the business of using the data beyond that. 
+
+- Q: Can I use my recorded sessions with Salina? A: Yes, we keep client data confidential and secure, and have a full [privacy policy](/terms/privacy/) and [service agreement](/terms/service/), plus [materials to help you describe Salina to your clients](/terms/for-clients/).
+
+- Q: But what actually do you do with a session recording? A: The short answer is that we store it securely in the EU, use AI to extract a transcript for your eyes, anonymize the transcript by removing names and places and other identifiable information, use AI to locate key moments in the session and present them to you to use in a progress note or in building up your formulation. You can delete the audio, transcript and session anytime. We also provide ready-made draft custom notes from your session.
+
+- Q: What does Salina look like? A: It looks [like this](/share/2023/screenshot).
+
+Other questions: ask then during the on-boarding session, or email <hello@salina.ai>.
+
 

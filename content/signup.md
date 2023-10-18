@@ -28,7 +28,7 @@ We're confident 15 minutes today will start saving you hours.
 
 - Q: Do you sell or use therapy data beyond what I need? A: No: we're in the business of making a product therapists want to use, and not in the business of using the data beyond that. 
 
-- Q: Can I use my recorded sessions with Salina? A: Yes, we keep client data confidential and secure, and have a full [privacy policy](/terms/privacy/) and [service agreement](/terms/service/), plus [materials to help you explain Salina to your clients](/terms/for-clients/).
+- Q: Can I use my recorded sessions with Salina? A: Yes, we keep client data confidential and secure, and have a full [privacy policy](/terms/privacy/) and [service agreement](/terms/service/), plus [materials to help you describe Salina to your clients](/terms/for-clients/).
 
 Other questions: ask then during the on-boarding session, or email <hello@salina.ai>.
 
