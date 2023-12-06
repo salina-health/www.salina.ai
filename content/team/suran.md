@@ -8,6 +8,6 @@ weight: 2
 promoted: true
 ---
 
-Suran completed his PhD at University College London (UCL) in machine learning and co-founded Searchspace, a company that detects ‘unusual patterns’ in financial transactions that was acquired for $150m.  
+Suran completed his PhD at University College London (UCL) in machine learning and co-founded Searchspace, a company that detects ‘unusual patterns’ in financial transactions. It was acquired for $150m.  
 
 He is also a Visiting Professor at the Centre for AI at UCL

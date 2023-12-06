@@ -6,34 +6,23 @@ bodyClass: page-about
 
 ---
 
-## Consultations are the bedrock of mental health
+## Do more of what you do best
 
-With 1 in every 8 people in the world living with a mental disorder[^1],
-access to professional help is challenging. 
+With 1 in every 8 people living with a mental health problem [^1],
+we need to improve access to expert help. 
 
-The dominance of online[^2] video and audio sessions provides access,
-but also a rich data source that is currently under analyzed.
+Online therapy has improved access [^2], but valuable time is spent on administrative tasks such as note-taking.
 
-## Therapy intelligence
+Salina's AI automates note-taking, freeing you up to spend more time helping your clients.
 
-> You're likely spending 10 or 20 minutes producing notes for a one-hour session. You could be using that time help your clients.
+Salina's notes summarize the session and highlight key information, alongside a full transcript of the session.
 
-Salina's AI aims to provide automated therapy intelligence, extracting insights from audio and natural language:
-
-- anonymize and summarize the session, saving time;
-
-- list symptoms mentioned by the patient; and
-
-- extracting key voice markers from sessions, to consistently track changes over sessions.
+Save time and money by letting Salina take care of your notes.
 
 
-## Value to the clinic, therapist, and patient
+## Use Salina for free
 
-Note-taking and summarization features of Salina can lead to significant savings per session, with the potential to dramatically change the economics of a session for the clinician. More time free makes more sessions available, allowing for access to increase.
-
-## Salina is available today
-
-If you'd like to try Salina, [book a 15 minute on-boarding call](https://fantastical.app/richard-dallaway/salina-onboarding) — we're confident 15 minutes now will save you hours as you use Salina. We are providing extended free trials for therapist joining us on an on-boarding call.
+If you'd like to try Salina, [book a 15 minute on-boarding call](https://fantastical.app/richard-dallaway/salina-onboarding) — we're confident 15 minutes now will save you hours. We are providing extended free trials for therapists joining us now.
 
 Alternatively, you can [contact us](/contact/) with questions or queries.
 

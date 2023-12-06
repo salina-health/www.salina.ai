@@ -4,14 +4,14 @@ layout: wide
 description: "Join Salina"
 ---
 
-# Start with a 6 month free trial
+# Free access for 1 year
 
-Salina securely summarises and extracts insights from therapy sessions,
+Salina securely summarises and analyses therapy sessions,
 saving you time so you can focus on helping your clients.
 
 {{< button text="Book a private 15-minute on-boarding session" link="https://fantastical.app/richard-dallaway/salina-onboarding" >}}
 
-We're confident 15 minutes today will start saving you hours.
+We're confident 15 minutes today will save you hours.
 
 ## What to expect in an on-boarding session
 
@@ -28,7 +28,7 @@ We're confident 15 minutes today will start saving you hours.
 
 - Q: Do you sell or use therapy data beyond what I need? A: No: we're in the business of making a product therapists want to use, and not in the business of using the data beyond that. 
 
-- Q: Can I use my recorded sessions with Salina? A: Yes, we keep client data confidential and secure, and have a full [privacy policy](/terms/privacy/) and [service agreement](/terms/service/), plus [materials to help you describe Salina to your clients](/terms/for-clients/).
+- Q: Can I uploead sessions that I've already recorded to Salina? A: Yes, we keep client data confidential and secure, and have a full [privacy policy](/terms/privacy/) and [service agreement](/terms/service/), plus [materials to help you describe Salina to your clients](/terms/for-clients/).
 
 Other questions: ask then during the on-boarding session, or email <hello@salina.ai>.
 

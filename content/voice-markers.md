@@ -3,17 +3,15 @@ title: Voice markers
 bodyClass: page-about
 ---
 
-## What your patient says, and how they say it, contains a wealth of information
+## What your client says, and how they say it, contains a wealth of information
 
-Voice markers are being used to track the progression of Parkinson’s, cardiovascular disease, COVID-19, and more[^1], but they have yet to become available to psychological practice. 
+Voice markers are being used to track the progression of Parkinson’s, cardiovascular disease, and more[^1]. Now they are becoming available to psychological therapy. 
 
 ## Moving from subjective to objective metrics
 
-Salina calculates a range of values to allow you to track changes across sessions. 
+Salina calculates your client's rate of speech, the volume at which they speak, and how often they use certain kinds of words. 
 
-While not a diagnostic, the metrics save you the time of measuring speaking rate, frequency of language used, along with loudness and other aspects of the human voice.
-
-Salina consistently records these, allowing you to spot patterns of change in a patient.
+See how these change across sessions to see change in your client's state of mind.
 
 
 #### Sources

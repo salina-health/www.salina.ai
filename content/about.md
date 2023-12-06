@@ -8,21 +8,19 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
-Salina Health is an early-stage technology company targeting psychological therapy.
+Salina Health is an early-stage technology company aiming to enhance psychological therapy.
 
-We extract insights from language and voice to:
+We analyse language and voice to:
 
-- Saves therapists valuable time;
+- save therapists valuable time;
 - deliver better therapy; and
-- helps more patients access therapy.
+- help more clients access therapy.
 
 # How we work
 
-We're creating AI tools for therapy session analytics and ongoing patient monitoring. This could provide significant [efficiencies at clinics](/mental-health) with the growth of remote therapy providers, and [add insights](/voice-markers) with language and voice metrics. 
+We're creating AI tools for therapy sessions and ongoing client monitoring. This [saves time](/mental-health) for therapists working online, and provides [valuable insights](/voice-markers) drawn from measurements of language and voice. 
 
-These services is provided as a software-as-a-service.
-
-We prefer to partner with patient management software companies to deliver the technologies. If you're a PMS interested in Salina, do [get in touch](/contact).
+We work with patient management software companies as well as individual therapists. If you're a PMS interested in Salina, do [get in touch](/contact).
 
 # Applications outside of mental health
 
