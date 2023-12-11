@@ -65,20 +65,16 @@ enableRobotsTXT = true
   # Main Menu
   [[menu.main]]
 
-  [[menu.main]]
+  [[menu.footer]]
     name = "About"
     url = "/about/"
     weight = 1
 
-  [[menu.main]]
+  [[menu.footer]]
     name = "Team"
     url = "/team/"
     weight = 2
 
-  [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 3
 
   # Footer Menu
   [[menu.footer]]
@@ -97,6 +93,11 @@ enableRobotsTXT = true
     weight = 2
 
   [[menu.footer]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
+  [[menu.footer]]
     name = "Web Credits"
     url = "/credits/"
-    weight = 3
+    weight = 4
