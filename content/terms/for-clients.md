@@ -4,9 +4,6 @@ layout: wide
 description: Salina
 ---
 
-
-Your therapist would like to start using Salina in your sessions.
-
 ## What is Salina?
 
 Salina is a software product which generates a transcript from your therapy session, and finds key information for your therapist. 
