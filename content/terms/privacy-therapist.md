@@ -1,10 +1,10 @@
 ---
-title: Salina Health Privacy Policy
+title: Salina Health Privacy Policy for Therapists
 layout: wide
 description: Privacy Policy
+aliases:
+- /terms/privacy/
 ---
-
-This version: 17 October 2023
 
 This privacy notice provides information on how Salina Health Ltd collects and processes personal data when you use our websites.
 
@@ -82,3 +82,4 @@ Under data protection law, you have rights including:
 - You are not required to pay any charge for exercising your rights. If you make a request, we have one month to respond to you.
 - Please contact us at support@salina.ai if you wish to make a request, or for the latest version of this document.
 
+Effective date: 11 August 2023

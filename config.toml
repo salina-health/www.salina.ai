@@ -84,7 +84,7 @@ enableRobotsTXT = true
 
   [[menu.footer]]
     name = "Privacy Policy"
-    url = "/terms/privacy"
+    url = "/terms/privacy-therapist"
     weight = 1
 
   [[menu.footer]]

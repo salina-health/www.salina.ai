@@ -32,14 +32,14 @@ The data is only used by your therapist. It is stored securely and your therapis
 
 If you’d like to be included in our research projects for improving Salina and measuring how well it works, we can let you know when the next research project starts.
 
-We encourage you to check out our [full privacy policy](/terms/privacy).
+We encourage you to check out our [full privacy policy](/terms/privacy-client).
 
 # Privacy and compliance
 
 Salina is based in the UK, and we follow the UK GDPR (General Data Protection Regulation).
-These are the strict rules to protect personal information, set in law by the Data Protection Act 2018.
+These are the strict rules to protect personal information, set in law.
 
-We are registered with the Information Commissioner's Office (ICO), under the same act.
+We are registered with the Information Commissioner's Office (ICO).
 
 
 [ico]: https://ico.org.uk/ESDWebPages/Entry/ZB487597
