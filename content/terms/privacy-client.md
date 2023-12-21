@@ -18,7 +18,7 @@ Your therapist uses Salina to make notes and support your therapy. To do this, S
 
 We collect the following types of information:
 
-1. *Identifying data*: email address.
+1. *Identifying data*: email address (if provided), name (if provided).
 
 2. *Session recordings*: the audio or video of a therapy session.
 
@@ -71,6 +71,6 @@ Under data protection law, you have rights including:
 * Your right to data portability: You have the right to ask that we transfer the personal information you gave us to another organisation, or to you, in certain circumstances.
 * You are not required to pay any charge for exercising your rights. If you make a request, we have one month to respond to you.
 
-Effective date: 11 August 2023
+Effective date: 21 December 2023
 
 

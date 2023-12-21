@@ -22,7 +22,7 @@ We collect the following types of information:
 
 1. *Therapist identifying data*: Your name,  email address, phone number (if provided), postal address (if provided), IP address
 
-2. *Client identifying data*: A name or label which you provide to distinguish clients.
+2. *Client identifying data*: A name or label which you provide to distinguish clients; email address if you provide it.
 
 3. *Session recordings*: the audio or video of a therapy session.
 
@@ -82,4 +82,4 @@ Under data protection law, you have rights including:
 - You are not required to pay any charge for exercising your rights. If you make a request, we have one month to respond to you.
 - Please contact us at support@salina.ai if you wish to make a request, or for the latest version of this document.
 
-Effective date: 11 August 2023
+Effective date: 21 December 2023
