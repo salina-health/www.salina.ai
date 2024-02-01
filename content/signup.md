@@ -4,7 +4,7 @@ layout: wide
 description: "Join Salina"
 ---
 
-# Free access for 1 year
+# Free access for a month
 
 Salina securely summarises and analyses therapy sessions,
 saving you time so you can focus on helping your clients.
